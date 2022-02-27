@@ -43,4 +43,4 @@ module.exports = {
     requireConfigFile: false,
     sourceType: 'module',
   },
-};
+}
